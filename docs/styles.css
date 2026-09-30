@@ -276,7 +276,7 @@ main { display: block; }
   color: var(--ink-2);
 }
 .path h3 { font-size: 1.3rem; margin-top: .15rem; }
-.path h3 span { font-weight: 600; color: var(--ink-2); }
+.path h3 span { font-weight: 600; color: var(--ink); }
 .path p { margin-top: .6rem; max-width: var(--measure); }
 .path .learned { font-weight: 700; color: var(--ink); }
 .path-body { grid-column: 2; }
@@ -351,7 +351,7 @@ main { display: block; }
   font-weight: 600;
   font-size: .95rem;
   line-height: 1.35;
-  color: var(--ink-2);
+  color: var(--ink);
   max-width: 24ch;
 }
 
@@ -446,7 +446,7 @@ main { display: block; }
   font-size: clamp(1.2rem, 2.4vw, 1.5rem);
   line-height: 1.3;
   margin-top: 1rem;
-  color: var(--on-sign-2);
+  color: var(--ink);
 }
 .sign .description { margin-top: 1.25rem; font-size: 1.2rem; max-width: 46ch; }
 .sign .facts { margin-top: 2rem; }
@@ -468,7 +468,7 @@ main { display: block; }
 .sign-aside h2 {
   font-size: 1rem;
   font-weight: 700;
-  color: var(--ink-2);
+  color: var(--ink);
   letter-spacing: 0;
 }
 .sign-aside .doc-title {
@@ -567,7 +567,7 @@ main { display: block; }
   font-family: var(--display);
   font-size: .95rem;
   font-weight: 600;
-  color: var(--ink-2);
+  color: var(--ink);
   margin-top: .75rem;
 }
 .shots { display: grid; gap: clamp(1.25rem, 3vw, 2rem); }
@@ -738,10 +738,11 @@ main { display: block; }
   font-size: .8rem;
   letter-spacing: .08em;
   text-transform: uppercase;
-  color: var(--ink-2);
+  color: var(--ink);
   margin-bottom: .25rem;
 }
 .edu-text p:last-child { font-weight: 500; }
 @media (min-width: 56rem) {
   .edu-card { margin-left: calc(15rem + 1.25rem); }
 }
+.edu-logo { flex: none; width: 4.25rem; height: auto; }
