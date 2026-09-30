@@ -570,6 +570,21 @@ main { display: block; }
   margin-top: .75rem;
 }
 .shots { display: grid; gap: clamp(1.25rem, 3vw, 2rem); }
+.shot-head { display: grid; gap: .35rem; margin-bottom: 1rem; max-width: var(--measure); }
+.shot-head h3 {
+  font-family: var(--display);
+  font-size: clamp(1.15rem, 2.4vw, 1.35rem);
+  font-weight: 700;
+  display: flex; align-items: baseline; gap: .6rem;
+}
+.shot-n {
+  display: inline-grid; place-items: center;
+  min-width: 1.8rem; height: 1.8rem;
+  background: var(--accent); color: #fff;
+  font-size: .95rem; font-weight: 700;
+}
+.shot-head p { color: var(--ink-2); }
+.shots .shot img { border: 1px solid var(--rule); }
 .text-version { margin-top: 1.25rem; max-width: var(--measure); }
 .text-version summary {
   font-family: var(--display);
