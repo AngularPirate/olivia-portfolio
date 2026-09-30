@@ -8,13 +8,14 @@ Source: Olivia's edits, 2026-09-30 (`content/olivia-edits-2026-09-30.pdf`). Her 
 - Intro: Canvas specialist and former English teacher who partners with college faculty to build clear, accessible, student-centered online courses, from first consultation to launch.
 - Location: Boise, Idaho
 - Email: Oliviahkoeppen@gmail.com
-- LinkedIn: OPEN QUESTION (Olivia asked whether to remove it)
+- LinkedIn: keep (URL needed)
 
 ## My path: From the classroom to course design
 1. **2021–2023 · English teacher, Capital High School.** Taught English to 130+ students in Boise. I designed standards-aligned units, wrote assessments, and used student data to adapt lessons for very different learners. *I learned what makes students tune out, and what makes them lean in.*
 2. **2023–2024 · Technical Records Specialist, Boise State School of Nursing.** Built and maintained Canvas course sites for undergraduate and graduate nursing programs, wrote the process documentation and training materials, and trained faculty and TAs on the tools. *I learned how college courses are built, and how to support busy faculty.*
 3. **2024–now · Instructional Technologist II, Boise State School of Nursing.** Now I consult with nursing faculty on online and hybrid courses from planning through launch. I run one-on-one and group trainings, build the tutorials and templates faculty use, and coordinate multi-course projects with accessibility (ADA/508, WCAG) built in. *I learned how to turn a faculty member's expertise into a course students can actually navigate.*
-4. **Next · Instructional designer.** I want to shape the learning itself, not just build it. The projects below show that side of my work.
+4. **Next · Instructional designer.** DRAFT REFRAME, pending Olivia's approval: Much of my work already sits inside instructional design: consulting on course structure, aligning content with outcomes, and building accessibility in from the start. I'm ready to own the full design process, from learning objectives through evaluation. The projects below show that work.
+   - Olivia's original: I want to shape the learning itself, not just build it. The projects below show that side of my work.
 
 **Education:** M.Ed. in Educational Leadership and B.A. in English, Secondary Education, Boise State University
 
