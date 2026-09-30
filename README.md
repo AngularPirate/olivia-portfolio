@@ -2,7 +2,7 @@
 
 Static site served by GitHub Pages. No build step.
 
-- `index.html`: home page (currently a placeholder linking to draft designs)
+- `index.html`: home page; `projects/`: one case-study page per project; `styles.css`: shared styles (see `DESIGN.md`)
 - `prototypes/`: design drafts. Never edited in place; each round of edits is a new versioned file (see `prototypes/README.md`)
 - `CONTENT.md`: content brief, the source for all page text
 - `RESEARCH.md`: reference portfolios

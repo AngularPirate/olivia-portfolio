@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-30T16:00:00Z",
+  "title": "Design System: Olivia Koeppen, Instructional Design Portfolio",
+  "extensions": {
+    "colorMeta": {
+      "garnet": { "role": "primary", "displayName": "Garnet", "canonical": "#8a1c32" },
+      "garnet-deep": { "role": "primary", "displayName": "Garnet Deep", "canonical": "#6a1426" },
+      "rose-dark-accent": { "role": "primary", "displayName": "Rose (dark theme accent)", "canonical": "#f59fb1" },
+      "ground": { "role": "neutral", "displayName": "Ground", "canonical": "#ffffff" },
+      "ink": { "role": "neutral", "displayName": "Ink", "canonical": "#17151a" },
+      "ink-secondary": { "role": "neutral", "displayName": "Ink Secondary", "canonical": "#57505c" }
+    },
+    "typographyMeta": {
+      "display": { "displayName": "Display", "purpose": "Name on the home sign and case-study titles." },
+      "body": { "displayName": "Body", "purpose": "All reading text, max 68ch." },
+      "label": { "displayName": "Label", "purpose": "Directory labels, dates, nav, figure labels." }
+    },
+    "shadows": [],
+    "motion": [
+      { "name": "ease-out-expo", "value": "cubic-bezier(.16, 1, .3, 1) .25s", "purpose": "Arrow nudge on project rows and the primary button. Disabled under prefers-reduced-motion." }
+    ],
+    "breakpoints": [
+      { "name": "stack-facts", "value": "30rem" },
+      { "name": "checklist-columns", "value": "44rem" },
+      { "name": "split", "value": "56rem" },
+      { "name": "case-head", "value": "60rem" }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "The single action in a case-study sign aside.",
+      "html": "<a class=\"ds-btn\" href=\"#\">View the checklist</a>",
+      "css": ".ds-btn { display:inline-flex; font-family: Overpass, Arial, sans-serif; font-weight:700; padding:.8rem 1.25rem .7rem; background:#8a1c32; color:#fff; border:2px solid #8a1c32; text-decoration:none; border-radius:0; } .ds-btn:hover { background:#6a1426; border-color:#6a1426; }"
+    },
+    {
+      "name": "Directory Row",
+      "kind": "custom",
+      "description": "Label column plus value, used for facts and contact.",
+      "html": "<dl class=\"ds-dir\"><div><dt>Audience</dt><dd>School of Nursing faculty and students</dd></div></dl>",
+      "css": ".ds-dir { border-top:2px solid #17151a; margin:0; } .ds-dir div { display:grid; grid-template-columns:7.5rem 1fr; gap:1rem; padding:.7rem 0; border-bottom:1px solid #d9d5dc; } .ds-dir dt { font-family: Overpass, Arial, sans-serif; font-weight:700; font-size:.9rem; } .ds-dir dd { margin:0; font-family:'Source Serif 4', Georgia, serif; }"
+    }
+  ],
+  "narrative": {
+    "northStar": "Campus Wayfinding",
+    "overview": "The site behaves like a university signage system: one garnet sign at the top of every page, then quiet, orderly directories on a white ground. It reads like careful course material, not a creative portfolio.",
+    "keyCharacteristics": ["One garnet sign panel per page", "Directory rows with a label column", "Square corners, no shadows", "Overpass for wayfinding, Source Serif 4 for reading"],
+    "rules": [{ "name": "The One Sign Rule", "body": "A page has exactly one garnet field, at the top. Garnet elsewhere appears only as ink.", "section": "colors" }],
+    "dos": ["Do render text artifacts as real HTML and offer the original file as a download.", "Do give outcome numbers garnet Overpass 800 with a plain label."],
+    "donts": ["Don't add cards, shadows, rounded corners, gradients, or eyebrow labels.", "Don't use muted tints or Boise State / CWI colors.", "Don't ship placeholder sections."]
+  }
+}

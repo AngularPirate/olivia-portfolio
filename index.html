@@ -4,21 +4,195 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
-<title>Olivia Koeppen · Instructional Design</title>
-<style>
-  :root { --bg:#f6f5f1; --ink:#22231f; --muted:#5d5f57; --accent:#56633a; }
-  @media (prefers-color-scheme: dark) { :root { --bg:#171814; --ink:#e8e8e1; --muted:#a4a69b; --accent:#b3c28c; } }
-  body { margin:0; background:var(--bg); color:var(--ink); font:17px/1.6 Georgia, serif; padding:64px 20px; }
-  main { max-width:560px; margin:0 auto; display:grid; gap:16px; }
-  h1 { font-size:2rem; margin:0; } p { margin:0; color:var(--muted); }
-  a { color:var(--accent); }
-</style>
+<title>Olivia Koeppen · Instructional Design Portfolio</title>
+<meta name="description" content="Instructional design portfolio of Olivia Koeppen, Boise, Idaho.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@400;600;700;800&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+<link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<main>
-  <h1>Olivia Koeppen</h1>
-  <p>Instructional design portfolio. Coming soon.</p>
-  <p>Draft designs: <a href="prototypes/a-quiet.html">A</a> · <a href="prototypes/c-course.html">C</a></p>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="wordmark" href="index.html">Olivia Koeppen</a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="#path">My path</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <section class="sign" aria-labelledby="name">
+    <div class="wrap">
+      <h1 id="name">Olivia Koeppen</h1>
+      <p class="role">Instructional Design Portfolio</p>
+      <p class="intro">Canvas specialist and former English teacher who partners with college faculty to build clear, accessible, student-centered online courses, from first consultation to launch.</p>
+      <dl class="directory inline">
+        <div><dt>Location</dt><dd>Boise, Idaho</dd></div>
+        <div><dt>Email</dt><dd>Oliviahkoeppen@gmail.com</dd></div>
+        <div><dt>LinkedIn</dt><dd><a href="https://www.linkedin.com/in/oliviakoeppen">linkedin.com/in/oliviakoeppen</a></dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section" id="path" aria-labelledby="path-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="path-title">My path: From the classroom to course design</h2>
+      </div>
+      <ol class="path">
+        <li>
+          <span class="marker" aria-hidden="true">1</span>
+          <span class="path-when">2021–2023</span>
+          <div class="path-body">
+            <h3>English teacher, <span>Capital High School</span></h3>
+            <p>Taught English to 130+ students in Boise. I designed standards-aligned units, wrote assessments, and used student data to adapt lessons for very different learners.</p>
+            <p class="learned">I learned what makes students tune out, and what makes them lean in.</p>
+          </div>
+        </li>
+        <li>
+          <span class="marker" aria-hidden="true">2</span>
+          <span class="path-when">2023–2024</span>
+          <div class="path-body">
+            <h3>Technical Records Specialist, <span>Boise State School of Nursing</span></h3>
+            <p>Built and maintained Canvas course sites for undergraduate and graduate nursing programs, wrote the process documentation and training materials, and trained faculty and TAs on the tools.</p>
+            <p class="learned">I learned how college courses are built, and how to support busy faculty.</p>
+          </div>
+        </li>
+        <li>
+          <span class="marker" aria-hidden="true">3</span>
+          <span class="path-when">2024–now</span>
+          <div class="path-body">
+            <h3>Instructional Technologist II, <span>Boise State School of Nursing</span></h3>
+            <p>Now I consult with nursing faculty on online and hybrid courses from planning through launch. I run one-on-one and group trainings, build the tutorials and templates faculty use, and coordinate multi-course projects with accessibility (ADA/508, WCAG) built in.</p>
+            <p class="learned">I learned how to turn a faculty member’s expertise into a course students can actually navigate.</p>
+          </div>
+        </li>
+        <li class="next">
+          <span class="marker" aria-hidden="true">4</span>
+          <span class="path-when">Next</span>
+          <div class="path-body">
+            <h3>Instructional designer</h3>
+            <p>Much of my work already sits inside instructional design: consulting on course structure, aligning content with outcomes, and building accessibility in from the start. I’m ready to own the full design process, from learning objectives through evaluation. The projects below show that work.</p>
+          </div>
+        </li>
+      </ol>
+      <p class="education"><span><strong>Education:</strong> M.Ed. in Educational Leadership and B.A. in English, Secondary Education, Boise State University</span></p>
+    </div>
+  </section>
+
+  <section class="section" id="projects" aria-labelledby="projects-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="projects-title">Projects</h2>
+      </div>
+      <ul class="projects">
+        <li class="project-row">
+          <div>
+            <h3><a href="projects/course-readiness.html">Course Readiness for the School of Nursing</a></h3>
+            <p class="summary">Launching every nursing course, every semester.</p>
+            <span class="go" aria-hidden="true">Read the case study and checklist <svg viewBox="0 0 20 20" focusable="false"><path d="M3 10h13M11 5l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"/></svg></span>
+          </div>
+          <p class="figure-block"><span class="num">100+</span><span class="label">courses ready by the start of each term</span></p>
+        </li>
+        <li class="project-row">
+          <div>
+            <h3><a href="projects/accessibility.html">Accessibility in Nursing Canvas Courses</a></h3>
+            <p class="summary">Reviewing and correcting course accessibility with faculty, and catching new issues before launch.</p>
+            <span class="go" aria-hidden="true">Read the case study <svg viewBox="0 0 20 20" focusable="false"><path d="M3 10h13M11 5l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"/></svg></span>
+          </div>
+          <p class="figure-block"><span class="num">74%<span class="arrow" aria-hidden="true">→</span><span class="visually-hidden"> to </span>92%</span><span class="label">average accessibility score across 100+ courses</span></p>
+        </li>
+        <li class="project-row">
+          <div>
+            <h3><a href="projects/bs-dnp-template.html">BS-DNP Online Course Template Redesign</a></h3>
+            <p class="summary">A new course template for the online BS-DNP program, built with eCampus, the program director, and faculty.</p>
+            <span class="go" aria-hidden="true">Read the case study <svg viewBox="0 0 20 20" focusable="false"><path d="M3 10h13M11 5l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"/></svg></span>
+          </div>
+          <p class="figure-block"><span class="num">17 + 10</span><span class="label">courses migrated, plus courses built new in the template</span></p>
+        </li>
+        <li class="project-row">
+          <div>
+            <h3><a href="projects/ai-use-expectations.html">Standardizing AI Use Expectations in the School of Nursing</a></h3>
+            <p class="summary">A shared system for communicating AI use at the assignment level.</p>
+            <span class="go" aria-hidden="true">Read the case study <svg viewBox="0 0 20 20" focusable="false"><path d="M3 10h13M11 5l5 5-5 5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="square"/></svg></span>
+          </div>
+          <p class="figure-block"><span class="num">6 of 10</span><span class="label">first-semester PreLicensure courses adopted the icon system</span></p>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section" id="skills" aria-labelledby="skills-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="skills-title">Skills</h2>
+      </div>
+      <div class="skills">
+        <div>
+          <h3>Design</h3>
+          <ul>
+            <li>Online and hybrid course design</li>
+            <li>Learning objectives and standards-aligned curriculum</li>
+            <li>Assessments and rubrics</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Build</h3>
+          <ul>
+            <li>Canvas LMS</li>
+            <li>Course templates and migration</li>
+            <li>Multimedia integration</li>
+            <li>Tutorials and faculty-facing training materials</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Quality</h3>
+          <ul>
+            <li>Accessibility (ADA/Section 508, WCAG)</li>
+            <li>Accessibility review tools (Ally, TidyUp, Canvas Accessibility Report)</li>
+            <li>Process documentation</li>
+          </ul>
+        </div>
+        <div>
+          <h3>Support</h3>
+          <ul>
+            <li>One-on-one and group faculty consultation</li>
+            <li>Workshops and training</li>
+            <li>Multi-course project coordination</li>
+            <li>Cross-team collaboration (OIT, eCampus, vendors)</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="contact" aria-labelledby="contact-title">
+    <div class="wrap">
+      <div class="section-head">
+        <h2 id="contact-title">Contact</h2>
+      </div>
+      <dl class="contact-list">
+        <div><dt>Email</dt><dd>Oliviahkoeppen@gmail.com</dd></div>
+        <div><dt>LinkedIn</dt><dd><a href="https://www.linkedin.com/in/oliviakoeppen">linkedin.com/in/oliviakoeppen</a></dd></div>
+        <div><dt>Location</dt><dd>Boise, Idaho</dd></div>
+      </dl>
+    </div>
+  </section>
 </main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <span>Olivia Koeppen</span>
+    <span>Boise, Idaho</span>
+  </div>
+</footer>
 </body>
 </html>
