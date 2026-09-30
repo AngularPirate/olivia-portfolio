@@ -12,4 +12,5 @@ Naming: `<direction>-<name>-v<N>.html`. The original files (no version number) a
 | Site v1 | `design` branch @ f8b6f32 | https://claude.ai/artifact/PQKgcLGNLRcGjm5TszdHPX | Superseded | "Campus Wayfinding": garnet sign panel, dark mode |
 | Site v2 | `design` branch @ e480b9b | https://claude.ai/artifact/V7T1ok3LvZZWqYAQ4ETfWL | Superseded | Light only: light grey page, white header panel, black text, CWI-inspired deep teal #07606C accent |
 | Site v3 | `design` branch @ ee72971 | https://claude.ai/artifact/CWRs8V1q1VrrXmnA2ewH2u | Superseded | v2 plus all artifacts (process flow, BS-DNP screenshots, AI guide), Resume link to redacted resume PDF |
-| Site v4 | `design` branch | (see chat) | Active | v3 plus numbered titles and one-line notes above each BS-DNP screenshot |
+| Site v4 | `design` branch @ bcc0bec | https://claude.ai/artifact/6zsZCsNtp4ZjdBxJeFNrqP | Superseded | v3 plus numbered titles and one-line notes above each BS-DNP screenshot |
+| Site v5 | `design` branch, `docs/` | (see chat) | Active | Site moved to docs/; small copy edits; tab icon; link preview image and tags; 404 page. Copy proposal in COPY-PROPOSAL.md |

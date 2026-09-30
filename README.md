@@ -1,6 +1,6 @@
 # Olivia Koeppen, Instructional Design Portfolio
 
-Static site served by GitHub Pages. No build step.
+Static site served by GitHub Pages from the `docs/` folder (Settings → Pages → Branch `main`, folder `/docs`). No build step. Only `docs/` is public; everything else in the repo is working material.
 
 - `index.html`: home page; `projects/`: one case-study page per project; `styles.css`: shared styles (see `DESIGN.md`)
 - `prototypes/`: design drafts. Never edited in place; each round of edits is a new versioned file (see `prototypes/README.md`)
