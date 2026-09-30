@@ -8,7 +8,7 @@ Source: Olivia's edits, 2026-09-30 (`content/olivia-edits-2026-09-30.pdf`). Her 
 - Intro: Canvas specialist and former English teacher who partners with college faculty to build clear, accessible, student-centered online courses, from first consultation to launch.
 - Location: Boise, Idaho
 - Email: Oliviahkoeppen@gmail.com
-- LinkedIn: keep (URL needed)
+- LinkedIn: https://www.linkedin.com/in/oliviakoeppen
 
 ## My path: From the classroom to course design
 1. **2021–2023 · English teacher, Capital High School.** Taught English to 130+ students in Boise. I designed standards-aligned units, wrote assessments, and used student data to adapt lessons for very different learners. *I learned what makes students tune out, and what makes them lean in.*

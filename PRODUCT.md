@@ -42,7 +42,7 @@ Reviewed around a job interview. The committee is academic, works in Canvas dail
 
 ## Brand Commitments
 
-- Name as shown: Olivia Koeppen. Location: Boise, Idaho. Email: Oliviahkoeppen@gmail.com. LinkedIn: keep (URL to be provided).
+- Name as shown: Olivia Koeppen. Location: Boise, Idaho. Email: Oliviahkoeppen@gmail.com. LinkedIn: https://www.linkedin.com/in/oliviakoeppen.
 - Voice: first person, plain, specific, academic, modest and checkable. Confident and prepared, never overconfident or salesy. No hype words, no AI-flavored phrasing.
 - Constraints the user made binding: academic rather than creative; no muted, washed-out palettes; do not use Boise State (blue/orange) or CWI brand colors.
 - Reference the user liked for page structure: a case-study layout with project title, one-line subtitle, short description, Audience / Responsibilities / Tools facts, an artifact image beside the text, and a single "view the project" action, followed by Problem / Solution / Process sections with artifacts shown inline.
