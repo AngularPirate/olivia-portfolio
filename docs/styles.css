@@ -745,3 +745,6 @@ main { display: block; }
 .edu-logo { flex: none; width: 4.25rem; height: auto; }
 .guide-intro { display: grid; gap: 1rem; max-width: var(--measure); margin-bottom: clamp(1.5rem, 3vw, 2rem); }
 .guide-pages { max-width: 50rem; }
+.resume-actions { margin-top: 1.5rem; }
+.resume-pages { max-width: 54rem; }
+.sign .btn, .sign .btn:hover { color: #fff; }
