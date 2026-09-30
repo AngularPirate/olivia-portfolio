@@ -92,3 +92,37 @@ Rule of thumb: every project should answer **what did students experience differ
 - "PreLicensure" → "prelicensure"; "first semester" → "first-semester"
 - "SON" spelled out as "School of Nursing (SON)"
 - Dropped "Overall," from the accessibility outcome
+
+## Additional gaps (found on a second pass)
+
+### 9. Project descriptions repeat themselves
+Each project page's top panel has a one-line description that copies a sentence from lower on the same page, so readers see it twice. Proposed unique one-liners:
+- **Course Readiness.** Was: *I developed program-specific course standards and a pre-term readiness checklist covering course structure, settings, and required program content.* (repeated in Approach) → **Proposed:** A program-wide standard and checklist that gets 100+ nursing courses ready for students before the first day of class.
+- **Accessibility.** Was: *Working with stakeholders, I developed a process to review Canvas accessibility with faculty members, using Ally, TidyUp and the Accessibility Report.* (repeated in Approach) → **Proposed:** A faculty-facing review process that raised average accessibility scores from 74% to 92% across 100+ courses.
+- **AI Use Expectations.** Was: *As a member of the School of Nursing (SON) AI Task Force, I worked on a shared system for communicating AI use at the assignment level.* (repeated in Context) → **Proposed:** A five-level AI scale, icon library, and faculty guide that tell students what AI use is allowed on each assignment, and why.
+- **BS-DNP:** covered in #4.
+
+### 10. Course Readiness "Tools" lists things that aren't tools
+- **Was:** Canvas LMS, course standards, pre-term readiness checklist
+- **Proposed:** Canvas LMS, Canvas Link Validator, Canvas Accessibility Report, Microsoft Word **[Olivia: confirm; the first three appear in her checklist]**
+- **Why:** The standards and the checklist are what she made, not what she used; they already appear under Responsibilities.
+
+### 11. Course Readiness "Responsibilities" reads as operations
+- **Was:** Program course standards, pre-term readiness checklist, Canvas course preparation for 100+ courses each term
+- **Proposed:** Defined program course standards, designed the pre-term readiness checklist, prepared 100+ courses each term with faculty
+
+### 12. AI project outcome sounds tentative
+- **Was:** Out of the ten first-semester prelicensure nursing courses, six courses have currently adopted the icon system. We are currently looking into gathering student perception and impact.
+- **Proposed:** Six of the ten first-semester prelicensure nursing courses have adopted the icon system so far. The next step is gathering student perception data to measure its impact.
+- **Why:** Same facts; it reads as a planned evaluation step instead of an open question. Evaluation is part of the instructional design cycle, so framing it as a next step shows she thinks that way.
+
+### 13. No "how I work" statement (the biggest gap for an ID committee)
+The site shows what she did, but never says how she approaches design. Most instructional design portfolios have a short statement of approach, and it's where "ready to hit the ground running" lives. Proposed short section on the home page, between My path and Projects, built only from her own resume and reflections:
+
+> **How I work**
+> I work alongside faculty across the full course lifecycle, from planning through launch and continuous improvement. I start with what students need to do and find, build accessibility and consistency in from the start, and leave faculty with templates and guides they can keep using.
+
+**[Olivia]** to approve or rewrite in her voice. If adopted, it also makes removing the "Next" step (#2) easier.
+
+### 14. Leadership and service are missing
+Her resume lists the **Boise State Shared Leadership program** and service on School of Nursing committees and task forces; the site mentions only the AI Task Force. Proposed addition to path step 3: *…and I represent the School of Nursing on committees and task forces, including the AI Task Force and the Boise State Shared Leadership program.* **[Olivia: confirm]**
