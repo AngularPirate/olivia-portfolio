@@ -15,4 +15,5 @@ Naming: `<direction>-<name>-v<N>.html`. The original files (no version number) a
 | Site v4 | `design` branch @ bcc0bec | https://claude.ai/artifact/6zsZCsNtp4ZjdBxJeFNrqP | Superseded | v3 plus numbered titles and one-line notes above each BS-DNP screenshot |
 | Site v5 | `design` branch @ a85d5bd | https://claude.ai/artifact/Ucz38QCujeRRQN778q4Uqr | Superseded | Site moved to docs/; small copy edits; tab icon; link preview image and tags; 404 page. Copy proposal in COPY-PROPOSAL.md |
 | Site v6 | `design` branch @ a32888e | https://claude.ai/artifact/4JmWYgLmxi7uHtmLCqvbXb | Superseded | Copy proposal v2 applied; Libre Baskerville + Libre Franklin; hero contact row removed; dark subtitle; bold "I learned" lines; "Next" step removed; How I work section; education card with Boise State badge; QM and backward design in skills |
-| Site v7 | `design` branch, `docs/` | (see chat) | Active | Boise State Bronco logo in the education card; all titles and labels black instead of grey |
+| Site v7 | `design` branch @ bc087c3 | https://claude.ai/artifact/Ncm5v4dPmD9eWMXWkUdvZv | Superseded | Boise State Bronco logo in the education card; all titles and labels black instead of grey |
+| Site v8 | `design` branch, `docs/` | (see chat) | Active | Flowchart cropped to remove white margin; AI guide shown as three titled, full-width pages; Georgia as heading fallback |
