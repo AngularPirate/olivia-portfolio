@@ -90,7 +90,7 @@ Everything else stays as she wrote it.
 
 ## 9. Skills
 
-**Design**, add: Backward design and alignment. Quality Matters standards only if she has used the QM rubric **[Confirm]**.
+**Design**, add: Backward design and alignment, and Quality Matters (QM) standards. **[Small liberty: Olivia should remove QM if she hasn't worked with the rubric.]**
 **Support**, add: Ongoing course support and improvement after launch.
 
 ## 10. Home page project rows
