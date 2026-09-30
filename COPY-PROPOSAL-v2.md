@@ -4,7 +4,7 @@ Final proposed wording, rewritten in a warmer first-person voice. v1 is kept in 
 
 **[Confirm]** = a fact Olivia needs to confirm before it goes live. Everything else is either her own wording, reworded, or taken directly from her checklist and resume.
 
-Voice rules used: full sentences, first person, some warmth, no slogans or fragments, no em dashes, no "ready to own" language. Passion carries the "ready" message.
+Voice rules used: full sentences, first person, some warmth, no slogans or fragments, no em dashes, no "ready to own" language. Passion carries the "ready" message. Frame her work around designing effective, lasting learning for students and faculty, not around fixing problems.
 
 ---
 
@@ -13,16 +13,16 @@ Voice rules used: full sentences, first person, some warmth, no slogans or fragm
 **Was:** Canvas specialist and former English teacher who partners with college faculty to build clear, accessible, student-centered online courses, from first consultation to launch.
 
 **Proposed:**
-> I'm an instructional technologist at the Boise State School of Nursing and a former high school English teacher. I work alongside college faculty to design online courses that are clear, accessible, and built around students, and I stay with those courses after they launch, keeping them running smoothly and fixing problems as they come up during the semester.
+> I'm an instructional technologist at the Boise State School of Nursing and a former high school English teacher. I'm passionate about supporting faculty and students, and I do that by designing accessible, meaningful online courses that are built to last: courses that keep doing the real work of helping students learn, semester after semester.
 
 ## 2. My path, step 3 (current role)
 
-Adds School of Nursing faculty, mid-semester support and maintenance, and her leadership and service.
+Adds School of Nursing faculty, her ongoing support after launch (framed as improvement, not repairs), and her leadership and service.
 
 **Was:** Now I consult with nursing faculty on online and hybrid courses from planning through launch. I run one-on-one and group trainings, build the tutorials and templates faculty use, and coordinate multi-course projects with accessibility (ADA/508, WCAG) built in.
 
 **Proposed:**
-> Today I consult with School of Nursing faculty on their online and hybrid courses, from the first planning conversation through launch. I run one-on-one and group trainings, build the tutorials and templates faculty rely on, and coordinate projects that span many courses, with accessibility (ADA/508, WCAG) built in from the start. Once the semester is underway, I'm the person faculty reach out to when something needs fixing or updating, and I keep their courses running smoothly until the term ends. Beyond my day-to-day work, I serve on School of Nursing committees and task forces, including the AI Task Force, have served on several hiring committees **[Confirm: "several"]**, and take part in Boise State's Shared Leadership program **[Confirm]**.
+> Today I consult with School of Nursing faculty on their online and hybrid courses, from the first planning conversation through launch. I run one-on-one and group trainings, build the tutorials and templates faculty rely on, and coordinate projects that span many courses, with accessibility (ADA/508, WCAG) built in from the start. Once a course is live, I stay involved, supporting faculty through the semester and using what we learn to make the course better the next time it runs. Beyond my day-to-day work, I serve on School of Nursing committees and task forces, including the AI Task Force, have served on several hiring committees **[Confirm: "several"]**, and take part in Boise State's Shared Leadership program **[Confirm]**.
 
 "I learned…" line stays as she wrote it.
 
@@ -38,7 +38,7 @@ Keeps the step, drops "I'm ready to own." Label options: keep **"Next"**, or cha
 ## 4. How I work (new section, between My path and Projects)
 
 > **How I work**
-> I love working alongside faculty. They know their subject, and my job is to help that knowledge reach students in a course that's clear and easy to move through. I start with what students need to learn and do, build accessibility and consistency in from the beginning, and stay with the course after launch, fixing what comes up and improving it each term. Along the way, I try to leave faculty with templates and guides they can keep using long after we've finished working together.
+> I love working alongside faculty. They know their subject, and my job is to help that knowledge reach students in a course that's clear and easy to move through. I start with what students need to learn and do, build accessibility and consistency in from the beginning, and keep improving the course after launch, using what faculty and students experience to make the next term better. Along the way, I try to leave faculty with templates and guides they can keep using long after we've finished working together.
 
 ## 5. Course Readiness
 
@@ -91,7 +91,7 @@ Everything else stays as she wrote it.
 ## 9. Skills
 
 **Design**, add: Backward design and alignment. Quality Matters standards only if she has used the QM rubric **[Confirm]**.
-**Support**, add: Ongoing course maintenance and mid-semester support.
+**Support**, add: Ongoing course support and improvement after launch.
 
 ## 10. Home page project rows
 
