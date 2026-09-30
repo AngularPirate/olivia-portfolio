@@ -22,7 +22,7 @@ Adds School of Nursing faculty, her ongoing support after launch (framed as impr
 **Was:** Now I consult with nursing faculty on online and hybrid courses from planning through launch. I run one-on-one and group trainings, build the tutorials and templates faculty use, and coordinate multi-course projects with accessibility (ADA/508, WCAG) built in.
 
 **Proposed:**
-> Today I consult with School of Nursing faculty on their online and hybrid courses, from the first planning conversation through launch. I run one-on-one and group trainings, build the tutorials and templates faculty rely on, and coordinate projects that span many courses, with accessibility (ADA/508, WCAG) built in from the start. Once a course is live, I stay involved, supporting faculty through the semester and using what we learn to make the course better the next time it runs. Beyond my day-to-day work, I serve on School of Nursing committees and task forces, including the AI Task Force, have served on several hiring committees **[Confirm: "several"]**, and take part in Boise State's Shared Leadership program **[Confirm]**.
+> Today I consult with School of Nursing faculty on their online and hybrid courses, from the first planning conversation through launch. I run one-on-one and group trainings, build the tutorials and templates faculty rely on, and coordinate projects that span many courses, with accessibility (ADA/508, WCAG) built in from the start. Once a course is live, I stay involved, supporting faculty through the semester and using what we learn to make the course better the next time it runs. Beyond my day-to-day work, I serve on School of Nursing committees and task forces, including the AI Task Force, have served on multiple hiring committees, and take part in Boise State's Shared Leadership program. **[Hiring committees come from Jared, not her resume. Olivia should confirm, and ideally add them to her resume so the two match.]**
 
 "I learned…" line stays as she wrote it.
 
@@ -38,29 +38,29 @@ Keeps the step, drops "I'm ready to own." Label options: keep **"Next"**, or cha
 ## 4. How I work (new section, between My path and Projects)
 
 > **How I work**
-> I love working alongside faculty. They know their subject, and my job is to help that knowledge reach students in a course that's clear and easy to move through. I start with what students need to learn and do, build accessibility and consistency in from the beginning, and keep improving the course after launch, using what faculty and students experience to make the next term better. Along the way, I try to leave faculty with templates and guides they can keep using long after we've finished working together.
+> I love working alongside faculty. They know their subject, and my job is to help that knowledge reach students in a course that's clear and easy to move through. I start with what students need to learn and do, build accessibility and consistency in from the beginning, and keep improving the course after launch, using what we learn each term to make the next one better. Along the way, I try to leave faculty with templates and guides they can keep using long after we've finished working together.
 
 ## 5. Course Readiness
 
 **Subtitle.** Was: *Launching every nursing course, every semester.*
-> Setting the standard for every nursing course, then getting each one ready to launch
+> Setting course standards for the School of Nursing and getting each course ready for students
 
 **Short description (top panel, no longer repeats Approach).**
 > The course standards and readiness checklist I use to get more than 100 nursing courses ready for students before the first day of class.
 
 **Responsibilities (verbs).** Was: *Program course standards, pre-term readiness checklist, Canvas course preparation for 100+ courses each term.*
-> Set the course standards for the program, designed the readiness checklist, and prepare and launch 100+ courses each term with faculty
+> Set the course standards for the program, designed the readiness checklist, and prepare 100+ courses each term with faculty
 
 **Tools.** Was: *Canvas LMS, course standards, pre-term readiness checklist.*
-> Canvas LMS, Canvas Link Validator, Canvas Accessibility Report
+> Canvas LMS, Canvas Accessibility Report
 
-(Source: her own checklist, which tells faculty to use the Link Validator and the Accessibility Report.)
+(Both named by Olivia as tools she uses, in her accessibility write-up. The Link Validator was dropped: it appears in her checklist only as an instruction to faculty.)
 
 **Approach.** Her sentence stays; one sentence added, with examples taken straight from her checklist:
-> I developed program-specific course standards and a pre-term readiness checklist covering course structure, settings, and required program content. The standards spell out what every course needs before students arrive, like a complete first week, due dates and point values on every assignment, accessible readings, and no broken links. Then I work through each course before launch to make sure it meets them.
+> I developed program-specific course standards and a pre-term readiness checklist covering course structure, settings, and required program content. Together they cover what every course needs before students arrive, like a complete first week, due dates and point values on every assignment, accessible readings, and working links. I prepare each course against them, and faculty complete their part of the checklist before the course opens to students.
 
 **Outcome.** Was: *Course sites were ready by the start of term, and faculty requests became more predictable.* No numbers exist in her materials, so nothing is invented. The request deadlines come from her checklist.
-> Each term, course sites have been ready by the first day of class. Faculty now send setup requests by set deadlines (May 1 for fall, December 1 for spring, and April 1 for summer), so most requests come in well before the semester instead of in the last week. **[Confirm: the second sentence is our inference from the deadlines. Keep it only if it's true.]**
+> Each term, course sites have been ready by the first day of class. The checklist also sets clear request deadlines (May 1 for fall, December 1 for spring, and April 1 for summer), so faculty know when to ask for help and what's expected of them before their course opens.
 
 ## 6. Accessibility
 
@@ -86,11 +86,11 @@ Everything else stays as she wrote it.
 > A five-level AI scale, a shared icon library, and a faculty guide that show students what AI use is allowed on each assignment, and why.
 
 **Outcome.** Was: *…six courses have currently adopted the icon system. We are currently looking into gathering student perception and impact.*
-> Six of the ten first-semester prelicensure nursing courses have adopted the icon system so far. The next step is gathering student perception data to see how it's working for them.
+> Six of the ten first-semester prelicensure nursing courses have adopted the icon system so far, and we're now looking into gathering student perception data to see how it's working for students.
 
 ## 9. Skills
 
-**Design**, add: Backward design and alignment, and Quality Matters (QM) standards. **[Small liberty: Olivia should remove QM if she hasn't worked with the rubric.]**
+**Design**, add: Aligning content, assessments, and outcomes, and Quality Matters (QM) standards. **[Small liberty: Olivia should remove QM if she hasn't worked with the rubric.]**
 **Support**, add: Ongoing course support and improvement after launch.
 
 ## 10. Home page project rows
@@ -107,3 +107,10 @@ The short summary used in the browser tab and the link preview card will be upda
 
 ## Not doing
 - The CWI-specific closing line in Contact (she can say it in the interview).
+
+## Fact-check results (applied above)
+An independent pass checked every tool and claim against her edits, resume, checklist, AI guide, and screenshots.
+- **Tools:** everything named on the site is backed by her own materials except the two below. Canvas Link Validator was removed from Course Readiness Tools (it appears in her checklist only as an instruction to faculty). Quality Matters is not in any source; it stays as the owner-approved liberty for Olivia to confirm or remove.
+- **Softened to match the sources:** "launch" → "prepare" (faculty publish their own courses per the checklist); "every nursing course" → "each course"; the early-requests inference was replaced with the documented deadlines; "backward design" → "aligning content, assessments, and outcomes"; the AI next step now mirrors her own "looking into" wording.
+- **Hiring committees:** not in any of her materials; kept at Jared's direction, flagged for Olivia.
+- **Small consistency fix:** the site says "Capital High School"; her resume says "Capital Senior High School." Proposed: use "Capital High School" on both, or match the resume. **[Olivia]**
