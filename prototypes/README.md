@@ -9,3 +9,5 @@ Naming: `<direction>-<name>-v<N>.html`. The original files (no version number) a
 | A v1 | `a-quiet.html` | https://claude.ai/artifact/EmdCCNVBYWWdtKsz6wKDr7 | Active | Original: one column, olive accent, Newsreader + Public Sans |
 | B v1 | `b-path.html` | https://claude.ai/artifact/GKGmz7kpG8dnAp4VSxLigt | Retired | Original: career timeline. Not moving forward |
 | C v1 | `c-course.html` | https://claude.ai/artifact/UGFZVF2hexVPH4b7uPKNfL | Active | Original: course layout with modules, slate-green accent, Atkinson Hyperlegible |
+| Site v1 | `design` branch @ f8b6f32 | https://claude.ai/artifact/PQKgcLGNLRcGjm5TszdHPX | Superseded | "Campus Wayfinding": garnet sign panel, dark mode |
+| Site v2 | `design` branch | (see chat) | Active | Light only: light grey page, white header panel, black text, CWI-inspired deep teal #07606C accent |

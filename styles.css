@@ -1,22 +1,23 @@
 /* Olivia Koeppen, instructional design portfolio
-   One garnet sign panel per page; everything else is white ground, ink, and rules. */
+   Light only. One white sign panel per page with a deep teal top rule; light grey ground, black ink, teal links and figures. */
 
 :root {
   color-scheme: light;
-  --ground: #ffffff;
-  --panel: #f4f2f5;
-  --ink: #17151a;
-  --ink-2: #57505c;
-  --rule: #d9d5dc;
-  --rule-strong: #17151a;
-  --accent: #8a1c32;          /* garnet: links, markers, figures */
-  --accent-hover: #6a1426;
-  --sign: #8a1c32;            /* the sign panel field */
-  --on-sign: #ffffff;
-  --on-sign-2: #f6dce2;
-  --on-sign-rule: rgba(255, 255, 255, .34);
-  --focus: #8a1c32;
-  --bar-track: #e7e3ea;
+  --ground: #f4f5f7;          /* very light grey page */
+  --panel: #eceef1;
+  --ink: #16181d;
+  --ink-2: #4a4f59;
+  --rule: #d6d9df;
+  --rule-strong: #16181d;
+  --accent: #07606c;          /* deep teal: links, markers, figures */
+  --accent-hover: #044650;
+  --accent-soft: #d8e9eb;     /* teal tint for rules and fills, never text */
+  --sign: #ffffff;            /* the sign panel: white on the grey page */
+  --on-sign: #16181d;
+  --on-sign-2: #4a4f59;
+  --on-sign-rule: #d6d9df;
+  --focus: #07606c;
+  --bar-track: #dfe2e8;
 
   --display: "Overpass", "Helvetica Neue", Arial, system-ui, sans-serif;
   --text: "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
@@ -24,43 +25,6 @@
   --wrap: 72rem;
   --gutter: clamp(1rem, 4vw, 2.5rem);
   --measure: 68ch;
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    color-scheme: dark;
-    --ground: #141216;
-    --panel: #1e1b21;
-    --ink: #f2eff3;
-    --ink-2: #b5aebb;
-    --rule: #37323b;
-    --rule-strong: #f2eff3;
-    --accent: #f59fb1;
-    --accent-hover: #fbc4cf;
-    --sign: #7a1a2e;
-    --on-sign: #ffffff;
-    --on-sign-2: #f2cbd3;
-    --on-sign-rule: rgba(255, 255, 255, .3);
-    --focus: #f59fb1;
-    --bar-track: #2c2830;
-  }
-}
-:root[data-theme="dark"] {
-  color-scheme: dark;
-  --ground: #141216;
-  --panel: #1e1b21;
-  --ink: #f2eff3;
-  --ink-2: #b5aebb;
-  --rule: #37323b;
-  --rule-strong: #f2eff3;
-  --accent: #f59fb1;
-  --accent-hover: #fbc4cf;
-  --sign: #7a1a2e;
-  --on-sign: #ffffff;
-  --on-sign-2: #f2cbd3;
-  --on-sign-rule: rgba(255, 255, 255, .3);
-  --focus: #f59fb1;
-  --bar-track: #2c2830;
 }
 
 /* ---------- Base ---------- */
@@ -80,7 +44,7 @@ body {
   text-rendering: optimizeLegibility;
 }
 
-::selection { background: var(--sign); color: #fff; }
+::selection { background: var(--accent); color: #fff; }
 
 h1, h2, h3 {
   font-family: var(--display);
@@ -179,11 +143,13 @@ a:hover { color: var(--accent-hover); text-decoration-thickness: 2px; }
 .sign {
   background: var(--sign);
   color: var(--on-sign);
+  border-top: 8px solid var(--accent);
+  border-bottom: 1px solid var(--rule);
 }
 .sign .wrap { padding-block: clamp(2.5rem, 7vw, 5rem) clamp(2.25rem, 5vw, 3.5rem); }
-.sign a { color: var(--on-sign); }
-.sign a:hover { color: var(--on-sign); }
-.sign :focus-visible { outline-color: #fff; }
+.sign a { color: var(--accent); }
+.sign a:hover { color: var(--accent-hover); }
+.sign :focus-visible { outline-color: var(--focus); }
 
 .sign h1 {
   font-size: clamp(2.75rem, 8vw, 5.5rem);
@@ -491,6 +457,7 @@ main { display: block; }
 /* Right column of the sign: artifact card or outcome at a glance */
 .sign-aside {
   background: var(--ground);
+  border: 1px solid var(--rule);
   color: var(--ink);
   padding: clamp(1.25rem, 3vw, 2rem);
 }
