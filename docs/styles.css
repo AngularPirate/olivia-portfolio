@@ -746,5 +746,11 @@ main { display: block; }
 .guide-intro { display: grid; gap: 1rem; max-width: var(--measure); margin-bottom: clamp(1.5rem, 3vw, 2rem); }
 .guide-pages { max-width: 50rem; }
 .resume-actions { margin-top: 1.5rem; }
-.resume-pages { max-width: 54rem; }
 .sign .btn, .sign .btn:hover { color: #fff; }
+.resume-contact { margin-top: 1rem; font-size: 1.05rem; }
+.resume-list { margin: 0; padding-left: 1.2rem; display: grid; gap: .45rem; }
+.resume-role + .resume-role { margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--rule); }
+.resume-role-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: .25rem 1.5rem; }
+.resume-role-head h3 { font-size: 1.25rem; }
+.resume-dates { font-family: var(--display); font-weight: 600; font-size: .95rem; color: var(--ink); }
+.resume-org { font-weight: 600; margin: .25rem 0 .75rem; }
